@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Step 5: Commit a file
+We become what we think about
 Use the left arrow to go back!
